@@ -33,26 +33,45 @@ header ul li {
 }
 
 .topImageArea {
+background-image: url(/assets/images/24311-Circuit-4k-Ultra-HD-Wallpaper.jpg);
+height: 250px;
+overflow: hidden;
+object-fit: cover;
+background-color: rgb(228, 229, 216);
+background-blend-mode: unset;
+/* border: 5px solid rgb(225, 226, 194); */
+padding: 150px 65% 0px 0px;
+/* margin: 10px; */
+/* height: 250px;
+overflow: hidden;
+object-fit: cover;
+
 position: relative;
-margin: 0;
-padding: 0;
+margin: 1px;
+padding: 85% 70% 5px 5px; */
+
 }
 
-.topImageArea p {
-    color: rgb(255, 255, 255);
+
+.topImageArea h2 {
+
+    background-color: #7c99e3;
+    /* opacity: 70%; */
+
+    /* color: rgb(255, 255, 255);
     font-family: arial;
-    font-size:45px;
+    font-size:35px; */
     /* opacity: 85%; */
-    stroke:black;
-    position: absolute;
+    /* stroke:black;
+    position: absolute; */
     /* margin-left: auto;
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto; */
-    left: 0;
+    /* left: 0;
     right: 0;
     top: 70%;
-    text-align: left;
+    text-align: left; */
     /* opacity: 50%; */
     /* position:absolute;
     text-align: center; */
@@ -90,9 +109,9 @@ padding: 0;
 }
 
 #aboutMeBanner {
-    background-color: #3a66d5;
+    background-color: #7c99e3;
     color: white;
-    opacity: 70%;
+    /* opacity: 70%; */
     /* -webkit-text-stroke: 1px black; */
 
 }
@@ -120,12 +139,12 @@ padding: 0;
 
 .firstBanner {
     text-align: center;
-    background-color: #3a66d5;
+    background-color: #7c99e3;
     /* -webkit-text-stroke: 1px black; */
     margin: 0;
     padding: 0;
     color: white;
-    opacity: 70%;
+    /* opacity: 70%; */
 }
 
 .proj1BackImg {
@@ -150,12 +169,12 @@ padding: 0;
 
 #highlightsBanner {
     text-align: center;
-    background-color: #3a66d5;
+    background-color: #7c99e3;
     /* -webkit-text-stroke: 1px black; */
     margin: 0;
     padding: 0;
     color: white;
-    opacity: 70%;
+    /* opacity: 70%; */
 }
 
 .highlightsSection {
@@ -228,16 +247,16 @@ padding: 0;
 }
 
 #contacts {
-    
+
 }
 .contactBanner {
     text-align: center;
-    background-color: #3a66d5;
+    background-color: #7c99e3;
     /* -webkit-text-stroke: 1px black; */
     margin: 0;
     padding: 0;
     color: white;
-    opacity: 70%;
+    /* opacity: 70%; */
 }
 
 #whitelink {
