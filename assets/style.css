@@ -10,13 +10,14 @@ body{
     padding: 0;
     display: block;
     /* background-color: #3a66d5; */
+    background-color: #bdc9e7;
     
 }
 
 header{
     padding: 20px;
     margin: 0;
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
 }
 header h2{
    display: inline-block;
@@ -93,7 +94,7 @@ padding: 85% 70% 5px 5px; */
 }
 
 .aboutMeArea {
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
 
     /* margin-left: 5px;
     margin-right: 5px;
@@ -110,7 +111,8 @@ padding: 85% 70% 5px 5px; */
 
 #aboutMeBanner {
     background-color: #7c99e3;
-    color: white;
+    color: black;
+    margin: 0 0 5px 0;
     /* opacity: 70%; */
     /* -webkit-text-stroke: 1px black; */
 
@@ -143,7 +145,7 @@ padding: 85% 70% 5px 5px; */
     /* -webkit-text-stroke: 1px black; */
     margin: 0;
     padding: 0;
-    color: white;
+    color: black;
     /* opacity: 70%; */
 }
 
@@ -152,15 +154,15 @@ padding: 85% 70% 5px 5px; */
     height: 250px;
     overflow: hidden;
     object-fit: cover;
-    background-color: rgb(228, 229, 216);
+    background-color: rgb(160, 205, 239);
     background-blend-mode: unset;
-    border: 5px solid rgb(225, 226, 194);
+    border: 5px solid rgb(160, 205, 239);
     padding: 180px 70% 0px 0px;
     margin: 10px;
 }
 
 .proj1BackImg h2 {
-    background-color: rgb(225, 226, 194);
+    background-color: rgb(160, 205, 239));
 }
 
 .proj1BackImg:hover {
@@ -173,7 +175,7 @@ padding: 85% 70% 5px 5px; */
     /* -webkit-text-stroke: 1px black; */
     margin: 0;
     padding: 0;
-    color: white;
+    color: black;
     /* opacity: 70%; */
 }
 
@@ -190,14 +192,14 @@ padding: 85% 70% 5px 5px; */
     height: 300px;
     background-image: url(/assets/images/edd55a1d451054d241c43921f9b4d78a.jpg);
     object-fit: cover;
-    border: 5px solid rgb(225, 226, 194);
-    background-color: rgb(225, 226, 194);
+    border: 5px solid rgb(160, 205, 239);
+    background-color: rgb(160, 205, 239);
     background-blend-mode: unset;
     margin: 5px;
 }
 
 #highlight1 h2 {
-    background-color: rgb(225, 226, 194);
+    background-color: rgb(160, 205, 239);
 }
 
 #highlight1:hover {
@@ -210,15 +212,15 @@ padding: 85% 70% 5px 5px; */
     height: 300px;
     background-image: url(/assets/images/wp7440083.jpg);
     object-fit: cover;
-    border: 5px solid rgb(225, 226, 194);
-    background-color: rgb(225, 226, 194);
+    border: 5px solid rgb(160, 205, 239);
+    background-color: rgb(160, 205, 239);
     background-blend-mode: unset;
     margin: 5px;
 
 }
 
 #highlight2 h2 {
-    background-color: rgb(225, 226, 194);
+    background-color: rgb(160, 205, 239);
 }
 
 #highlight2:hover {
@@ -231,15 +233,15 @@ padding: 85% 70% 5px 5px; */
     height: 300px;
     background-image: url(/assets/images/9728.jpg);
     object-fit: cover;
-    border: 5px solid rgb(225, 226, 194);
-    background-color: rgb(225, 226, 194);
+    border: 5px solid rgb(160, 205, 239);
+    background-color: rgb(160, 205, 239);
     background-blend-mode: unset;
     margin: 5px;
 
 }
 
 #highlight3 h2 {
-    background-color: rgb(225, 226, 194);
+    background-color: rgb(160, 205, 239);
 }
 
 #highlight3:hover {
@@ -255,7 +257,7 @@ padding: 85% 70% 5px 5px; */
     /* -webkit-text-stroke: 1px black; */
     margin: 0;
     padding: 0;
-    color: white;
+    color: black;
     /* opacity: 70%; */
 }
 
