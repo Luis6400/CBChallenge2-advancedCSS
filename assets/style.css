@@ -207,10 +207,10 @@ padding: 85% 70% 5px 5px; */
 }
 
 #highlight2 {
+    background-image: url(./images/wp7440083.jpg);
     padding: 250px 150px 5px 0;
     width: 350px;
     height: 300px;
-    background-image: url(./images/wp7440083.jpg);
     object-fit: cover;
     border: 5px solid rgb(160, 205, 239);
     background-color: rgb(160, 205, 239);
