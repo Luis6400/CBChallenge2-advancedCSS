@@ -130,7 +130,7 @@ padding: 85% 70% 5px 5px; */
 }
 
 .aboutMeArea p {
-    float:inline-end;
+    /* float:inline-end; */
     font-size: large;
     
 }
