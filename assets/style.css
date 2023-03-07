@@ -135,7 +135,7 @@ padding: 85% 70% 5px 5px; */
     
 }
 
-#mywork {
+#mywork { 
 
 }
 
@@ -258,6 +258,7 @@ padding: 85% 70% 5px 5px; */
     margin: 0;
     padding: 0;
     color: black;
+    list-style: none;
     /* opacity: 70%; */
 }
 
