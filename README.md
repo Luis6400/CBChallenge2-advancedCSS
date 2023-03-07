@@ -14,7 +14,7 @@ This project is my first draft of a portfolio website. We were tasked with some 
 
 ## Installation
 
-N/A
+N/A for this site
 
 ## Usage
 
