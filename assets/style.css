@@ -34,12 +34,12 @@ header ul li {
 }
 
 .topImageArea {
-background-image: url(./assets/images/24311-Circuit-4k-Ultra-HD-Wallpaper.jpg);
+background-image: url(./images/24311-Circuit-4k-Ultra-HD-Wallpaper.jpg);
 height: 250px;
 overflow: hidden;
 object-fit: cover;
-background-color: rgb(228, 229, 216);
-background-blend-mode: unset;
+background-color: #7c99e3;
+/* background-blend-mode: unset; */
 /* border: 5px solid rgb(225, 226, 194); */
 padding: 150px 65% 0px 0px;
 /* margin: 10px; */
@@ -187,10 +187,10 @@ padding: 85% 70% 5px 5px; */
 }
 
 #highlight1 {
+    background-image: url(./images/edd55a1d451054d241c43921f9b4d78a.jpg);
     padding: 250px 150px 5px 0;
     width: 350px;
     height: 300px;
-    background-image: url("./assets/images/edd55a1d451054d241c43921f9b4d78a.jpg");
     object-fit: cover;
     border: 5px solid rgb(160, 205, 239);
     background-color: rgb(160, 205, 239);
@@ -210,7 +210,7 @@ padding: 85% 70% 5px 5px; */
     padding: 250px 150px 5px 0;
     width: 350px;
     height: 300px;
-    background-image: url("./assets/images/wp7440083.jpg");
+    background-image: url("./images/wp7440083.jpg");
     object-fit: cover;
     border: 5px solid rgb(160, 205, 239);
     background-color: rgb(160, 205, 239);
@@ -231,7 +231,7 @@ padding: 85% 70% 5px 5px; */
     padding: 250px 150px 5px 0;
     width: 350px;
     height: 300px;
-    background-image: url("./assets/images/9728.jpg");
+    background-image: url("./images/9728.jpg");
     object-fit: cover;
     border: 5px solid rgb(160, 205, 239);
     background-color: rgb(160, 205, 239);
